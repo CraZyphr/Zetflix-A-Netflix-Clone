@@ -2,7 +2,6 @@
 
 A Netflix clone project built with JavaScript, React, Material-UI library, and SCSS.
 
-![Netflix Clone](screenshot.png)
 
 ## Table of Contents
 - [Overview](#overview)
